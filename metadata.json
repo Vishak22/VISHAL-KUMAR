@@ -1,0 +1,6 @@
+{
+  "name": "QuizAI Study Hub",
+  "description": "An interactive AI-powered study companion that generates quizzes from study materials, with spaced repetition, local Room database, customizable timers, PDF/Sheets export, and AI-powered incorrect answer explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
